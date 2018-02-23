@@ -3,11 +3,7 @@ It's high time we as humans change the way we track the passage of time. Bring y
 
 Simply clone the Skrek-Time folder for your language into your project and start getting your time in Shreks!
 
----
-
 # Languages
-
----
 
 # TODO
 - C
